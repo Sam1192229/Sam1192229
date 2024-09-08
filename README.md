@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **Firebase, Nextjs**
-
 - 👨‍💻 All of my projects are available at [https://samriddhi-portfolio-react.vercel.app/](https://samriddhi-portfolio-react.vercel.app/)
 
 - 💬 Ask me about **React, Coffee, Mascara**
